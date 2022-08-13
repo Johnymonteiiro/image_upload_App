@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Button, Heading, Flex } from '@chakra-ui/react';
 
 export function Error(): JSX.Element {

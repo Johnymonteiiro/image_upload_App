@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Box, Flex, Button, useDisclosure, Image } from '@chakra-ui/react';
 
 import { ModalAddImage } from './Modal/AddImage';

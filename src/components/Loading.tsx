@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Box, Heading, Flex, Progress } from '@chakra-ui/react';
 
 export function Loading(): JSX.Element {
